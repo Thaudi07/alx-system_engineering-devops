@@ -1,2 +1,2 @@
 #!/bin/bash
---format=,
+ls -a *--format=,-p/
